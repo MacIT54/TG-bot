@@ -1,10 +1,3 @@
-"""
-* Project               : <TgBot>
-* Program name          : main.py
-* Author                : MacIT54
-* Purpose               : <Gaining experience>
-"""
-
 import requests
 import telebot
 from telebot import types
