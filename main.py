@@ -2,7 +2,7 @@ import requests
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot("5371485154:AAGJmc2o_l0P4vrL3KTdxNW9Yq_hu-987kY")
+bot = telebot.TeleBot("")
 
 url = 'https://api.exchangerate.host/latest/USD'
 response = requests.get(url).json()
