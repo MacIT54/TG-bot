@@ -2,7 +2,6 @@
 * Project               : <TgBot>
 * Program name          : main.py
 * Author                : MacIT54
-* Date created          : хз
 * Purpose               : <Gaining experience>
 """
 
